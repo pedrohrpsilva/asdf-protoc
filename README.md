@@ -8,7 +8,7 @@ compiler plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 ## Install
 
 ```
-asdf plugin-add protoc https://github.com/paxosglobal/asdf-protoc.git
+asdf plugin-add protoc https://github.com/pedrohrpsilva/asdf-protoc.git
 ```
 
 ## Use
